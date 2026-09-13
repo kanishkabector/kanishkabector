@@ -41,8 +41,8 @@ A travel planning web application built using **HTML, CSS, and JavaScript** that
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kanishkabector&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Stats" width="49%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kanishkabector&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" alt="Top Languages" width="49%"/>
+  <img src="https://github-readme-stats-seven-tau-24.vercel.app/api?username=kanishkabector&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Stats" width="49%"/>
+  <img src="https://github-readme-stats-seven-tau-24.vercel.app/api/top-langs/?username=kanishkabector&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" alt="Top Languages" width="49%"/>
 </p>
 
 <p align="center">

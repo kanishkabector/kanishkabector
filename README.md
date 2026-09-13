@@ -41,24 +41,20 @@ A travel planning web application built using **HTML, CSS, and JavaScript** that
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-seven-tau-24.vercel.app/api?username=kanishkabector&show_icons=true&theme=radical" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats-seven-tau-24.vercel.app/api?username=kanishkabector&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Stats" width="49%"/>
+  <img src="https://github-readme-stats-seven-tau-24.vercel.app/api/top-langs/?username=kanishkabector&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" alt="Top Languages" width="49%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-seven-tau-24.vercel.app/api/top-langs/?username=kanishkabector&layout=compact&theme=radical" alt="Top Languages"/>
+  <img src="https://streak-stats.demolab.com?user=kanishkabector&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak" width="70%"/>
 </p>
 
-### 🤝 Connect with Me
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/kanishka-bector-6740573ab" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:kanishkabector2@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+<p align="center">
+  <img src="https://github-readme-trophies.vercel.app/?username=kanishkabector&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies"/>
 </p>
 
----
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kanishkabector&theme=tokyo-night&hide_border=true" alt="Activity Graph" width="90%"/>
+</p>
 
 <p align="center"><i>Thanks for stopping by! ⭐ from a repo you like</i></p>

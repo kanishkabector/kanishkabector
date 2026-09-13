@@ -48,13 +48,3 @@ A travel planning web application built using **HTML, CSS, and JavaScript** that
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=kanishkabector&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak" width="70%"/>
 </p>
-
-<p align="center">
-  <img src="https://github-readme-trophies.vercel.app/?username=kanishkabector&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kanishkabector&theme=tokyo-night&hide_border=true" alt="Activity Graph" width="90%"/>
-</p>
-
-<p align="center"><i>Thanks for stopping by! ⭐ from a repo you like</i></p>
